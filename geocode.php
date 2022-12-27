@@ -21,3 +21,5 @@ function geocode($address) {
 
     return $gps;
 }
+
+?>
